@@ -18,3 +18,7 @@
 
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=Linkedin&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/carlosadrianoss/)
+
+# Sites em desenvolvimento:
+## NLW#3 - Happy
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/)

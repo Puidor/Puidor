@@ -25,8 +25,8 @@
 
 | Projetos NLW       | Website       |
 | -------------      |:-------------:|
-| NLW#3 - Happy      | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/) |
-| NLW#1 - Ecoleta    | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)  |
+| [NLW#3 - Happy](https://github.com/Puidor/nlw03-happy)         | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/) |
+| [NLW#1 - Ecoleta](https://github.com/Puidor/nlw01-ecoleta)     | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)  |
 
 
 - Challenges Frontend.Mentor

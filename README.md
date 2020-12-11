@@ -21,7 +21,7 @@
 
 # Projetos :computer:
 
-:arrow_right: Next Level Week - RocketSeat
+- Next Level Week - RocketSeat
 
 | Projetos NLW       | Website       |
 | -------------      |:-------------:|
@@ -29,7 +29,7 @@
 | NLW#1 - Ecoleta    | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)  |
 
 
-:arrow_right: Challenges Frontend.Mentor
+- Challenges Frontend.Mentor
 
 | Projetos Frontend.Mentor | Website       |
 | -------------            |:-------------:|
@@ -37,7 +37,7 @@
 | fylo-dark-theme          | [![Netlify Status](https://api.netlify.com/api/v1/badges/0728dd0c-08cc-4886-8254-d56690dda50e/deploy-status)](https://puidores-fylo-dark-theme.netlify.app/)  |
 | base-apparel-coming-soon | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)  |
 
-Entre outros :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)
+Mais Projetos :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)
 
 
 

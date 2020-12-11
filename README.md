@@ -46,4 +46,4 @@ base-apparel-coming-soon
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)
 
-Entre outros :arrow_right: https://github.com/Puidor?tab=repositories
+Entre outros :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)

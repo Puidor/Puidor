@@ -33,9 +33,9 @@
 
 | Projetos Frontend.Mentor | Website       |
 | -------------            |:-------------:|
-| huddle-landing-page      | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://puidores-huddle-landing-page.netlify.app/) |
-| fylo-dark-theme          | [![Netlify Status](https://api.netlify.com/api/v1/badges/0728dd0c-08cc-4886-8254-d56690dda50e/deploy-status)](https://puidores-fylo-dark-theme.netlify.app/)  |
-| base-apparel-coming-soon | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)  |
+| [huddle-landing-page](https://github.com/Puidor/desafio-huddle-landing-page)                  | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://puidores-huddle-landing-page.netlify.app/) |
+| [fylo-dark-theme ](https://github.com/Puidor/desafio-fylo-dark-theme)                         | [![Netlify Status](https://api.netlify.com/api/v1/badges/0728dd0c-08cc-4886-8254-d56690dda50e/deploy-status)](https://puidores-fylo-dark-theme.netlify.app/)  |
+| [base-apparel-coming-soon](https://github.com/Puidor/desafio-base-apparel-coming-soon-master) | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)  |
 
 Mais Projetos :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)
 

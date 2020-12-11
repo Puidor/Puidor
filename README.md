@@ -21,17 +21,21 @@
 
 # Projetos em desenvolvimento :hammer:
 
-:arrow_right: NLW#3 - Happy
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/)
+:arrow_right: 
 
 # Projetos finalizados :computer:
 
-:arrow_right: Challenges Frontend.Mentor
+:arrow_right: Next Level Week - RocketSeat
 
 NLW#1 - Ecoleta
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)
+
+NLW#3 - Happy
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/)
+
+:arrow_right: Challenges Frontend.Mentor
 
 huddle-landing-page
 

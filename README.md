@@ -19,21 +19,18 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=Linkedin&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/carlosadrianoss/)
 
-# Projetos em desenvolvimento :hammer:
-
-:arrow_right: 
-
-# Projetos finalizados :computer:
+# Projetos :computer:
 
 :arrow_right: Next Level Week - RocketSeat
+
+NLW#3 - Happy
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/)
 
 NLW#1 - Ecoleta
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)
 
-NLW#3 - Happy
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/)
 
 :arrow_right: Challenges Frontend.Mentor
 
@@ -49,4 +46,4 @@ base-apparel-coming-soon
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)
 
-Entre outros...
+Entre outros :arrow_right: https://github.com/Puidor?tab=repositories

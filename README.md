@@ -29,6 +29,10 @@
 
 :arrow_right: Challenges Frontend.Mentor
 
+NLW#1 - Ecoleta
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)
+
 huddle-landing-page
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://puidores-huddle-landing-page.netlify.app/)

@@ -23,27 +23,22 @@
 
 :arrow_right: Next Level Week - RocketSeat
 
-NLW#3 - Happy
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/)
-
-NLW#1 - Ecoleta
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)
+| Projetos NLW       | Website       |
+| -------------      |:-------------:|
+| NLW#3 - Happy      | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://happy-puidores.netlify.app/) |
+| NLW#1 - Ecoleta    | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://nlw01-ecoleta.netlify.app/)  |
 
 
 :arrow_right: Challenges Frontend.Mentor
 
-huddle-landing-page
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://puidores-huddle-landing-page.netlify.app/)
-
-fylo-dark-theme
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0728dd0c-08cc-4886-8254-d56690dda50e/deploy-status)](https://puidores-fylo-dark-theme.netlify.app/)
-
-base-apparel-coming-soon
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)
+| Projetos Frontend.Mentor | Website       |
+| -------------            |:-------------:|
+| huddle-landing-page      | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://puidores-huddle-landing-page.netlify.app/) |
+| fylo-dark-theme          | [![Netlify Status](https://api.netlify.com/api/v1/badges/0728dd0c-08cc-4886-8254-d56690dda50e/deploy-status)](https://puidores-fylo-dark-theme.netlify.app/)  |
+| base-apparel-coming-soon | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)  |
 
 Entre outros :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)
+
+
+
+

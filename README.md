@@ -21,6 +21,10 @@
 
 # Projetos :computer:
 
+| Projetos           | Website       |
+| -------------      |:-------------:|
+| [Dev.Finances](https://github.com/Puidor/puidores-finances)         | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-finances.netlify.app/) |
+
 - Next Level Week - RocketSeat
 
 | Projetos NLW       | Website       |

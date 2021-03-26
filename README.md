@@ -24,6 +24,8 @@
 | Projetos           | Website       |
 | -------------      |:-------------:|
 | [Dev.Finances](https://github.com/Puidor/puidores-finances)         | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-finances.netlify.app/) |
+| [RPG-Pomodoro](https://github.com/Puidor/rpg-pomodoro)              | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-rpg-pomodoro.netlify.app/) |
+| [Pokedex-NextJs](https://github.com/Puidor/puidores-next-pokedex)   | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-pokedex.netlify.app/) |
 
 - Next Level Week - RocketSeat
 
@@ -40,7 +42,7 @@
 | [huddle-landing-page](https://github.com/Puidor/desafio-huddle-landing-page)                  | [![Netlify Status](https://api.netlify.com/api/v1/badges/99e877b2-e5ee-4763-ba90-62a63fc6a682/deploy-status)](https://puidores-huddle-landing-page.netlify.app/) |
 | [fylo-dark-theme ](https://github.com/Puidor/desafio-fylo-dark-theme)                         | [![Netlify Status](https://api.netlify.com/api/v1/badges/0728dd0c-08cc-4886-8254-d56690dda50e/deploy-status)](https://puidores-fylo-dark-theme.netlify.app/)  |
 | [base-apparel-coming-soon](https://github.com/Puidor/desafio-base-apparel-coming-soon-master) | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-base-apparel-coming-soon.netlify.app/)  |
-| [Loopstudios](https://github.com/Puidor/loopstudios-landing-page-main)           | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-loopstudios.netlify.app/)  |
+| [Loopstudios](https://github.com/Puidor/loopstudios-landing-page-main)                        | [![Netlify Status](https://api.netlify.com/api/v1/badges/19543685-5ac0-49f8-83ce-39877e1d28a0/deploy-status)](https://puidores-loopstudios.netlify.app/)  |
 
 
 Mais Projetos :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)

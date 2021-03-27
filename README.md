@@ -25,7 +25,7 @@
 | -------------      |:-------------:|
 | [Dev.Finances](https://github.com/Puidor/puidores-finances)         | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-finances.netlify.app/) |
 | [RPG-Pomodoro](https://github.com/Puidor/rpg-pomodoro)              | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-rpg-pomodoro.netlify.app/) |
-| [Pokedex-NextJs](https://github.com/Puidor/puidores-next-pokedex)   | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-pokedex.netlify.app/) |
+| [pokedex-with-nextjs](https://github.com/Puidor/puidores-next-pokedex)   | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-pokedex.netlify.app/) |
 
 - Next Level Week - RocketSeat
 

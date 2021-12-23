@@ -27,6 +27,13 @@
 | [RPG-Pomodoro](https://github.com/Puidor/rpg-pomodoro)              | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-rpg-pomodoro.netlify.app/) |
 | [pokedex-with-nextjs](https://github.com/Puidor/puidores-next-pokedex)   | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://puidores-pokedex.netlify.app/) |
 
+- Trilhas | Inova Maranhão
+
+| Projetos           | Website       |
+| -------------      |:-------------:|
+| [Cultura-Maranhense](https://github.com/Puidor/culturamaranhense-acessivel)         | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://cultura-ma-acessivel.netlify.app/) |
+| [GAPD - Depressão Web](https://github.com/Puidor/depressao-web)              | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://gapd-depressao-web.netlify.app/) |
+
 - Next Level Week - RocketSeat
 
 | Projetos NLW       | Website       |

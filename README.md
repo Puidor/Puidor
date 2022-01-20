@@ -32,7 +32,8 @@
 | Projetos           | Website       |
 | -------------      |:-------------:|
 | [Cultura-Maranhense](https://github.com/Puidor/culturamaranhense-acessivel)         | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://cultura-ma-acessivel.netlify.app/) |
-| [GAPD - Depressão Web](https://github.com/Puidor/depressao-web)              | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://gapd-depressao-web.netlify.app/) |
+| [GAPD - Depressão Web](https://github.com/Puidor/depressao-web)                     | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://gapd-depressao-web.netlify.app/) |
+| [Bora-Investir](https://github.com/NeiltonSeguins/bora-investir)                     | [![Netlify Status](https://api.netlify.com/api/v1/badges/4f154618-3b08-489b-99a7-09470910ca3f/deploy-status)](https://bora-investir.vercel.app/) |
 
 - Next Level Week - RocketSeat
 

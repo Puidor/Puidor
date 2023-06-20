@@ -1,10 +1,10 @@
-### Olá, Me chamo Carlos Adriano 👋
+### Hello, My name is Carlos Adriano. 👋
 
- - Engenheiro da Computação 🎓.
+ - I am a Computer Engineer.🎓.
 
- - Desenvolvedor Front-end 🤖.
+ - I am a Front-end Developer. 🤖.
 
-### Linguagens e Ferramentas 🛠 
+### Languages and Tools 🛠 
 <p align="left">
                                <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -27,32 +27,32 @@
 
 <p align="left"> <a href="https://www.behance.net/carlosadrianoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carlosadrianoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-# Projetos :computer:
+# Projects :computer:
 
-| Repositório           | Website       |
+| Repositories           | Website       |
 | -------------      |:-------------:|
-| [Calculadora Finanças](https://github.com/Puidor/puidores-finances)              | [✅ Acessar](https://puidores-finances.netlify.app/) |
-| [[RPG] Pomodoro Cronômetro](https://github.com/Puidor/rpg-pomodoro)                   | [✅ Acessar](https://puidores-rpg-pomodoro.netlify.app/) |
-| [Pokedex [NextJs]](https://github.com/Puidor/puidores-next-pokedex)   | [✅ Acessar](https://puidores-pokedex.netlify.app/) |
+| [Calculadora Finanças](https://github.com/Puidor/puidores-finances)              | [✅ Website](https://puidores-finances.netlify.app/) |
+| [[RPG] Pomodoro Cronômetro](https://github.com/Puidor/rpg-pomodoro)                   | [✅ Website](https://puidores-rpg-pomodoro.netlify.app/) |
+| [Pokedex [NextJs]](https://github.com/Puidor/puidores-next-pokedex)   | [✅ Website](https://puidores-pokedex.netlify.app/) |
 
 - Trilhas | Inova Maranhão
 
-| Repositório           | Website       |
+| Repositories           | Website       |
 | -------------      |:-------------:|
-| [[Landing Page] Cultura-Maranhense](https://github.com/Puidor/culturamaranhense-acessivel)          | [✅ Acessar](https://cultura-ma-acessivel.netlify.app/) |
-| [[Landing Page] GAPD - Depressão Web](https://github.com/Puidor/depressao-web)                      | [✅ Acessar](https://gapd-depressao-web.netlify.app/) |
-| [[Landing Page] Bora Investir](https://github.com/NeiltonSeguins/bora-investir)                     | [✅ Acessar](https://bora-investir.vercel.app/) |
+| [[Landing Page] Cultura-Maranhense](https://github.com/Puidor/culturamaranhense-acessivel)          | [✅ Website](https://cultura-ma-acessivel.netlify.app/) |
+| [[Landing Page] GAPD - Depressão Web](https://github.com/Puidor/depressao-web)                      | [✅ Website](https://gapd-depressao-web.netlify.app/) |
+| [[Landing Page] Bora Investir](https://github.com/NeiltonSeguins/bora-investir)                     | [✅ Website](https://bora-investir.vercel.app/) |
 
 - Next Level Week - RocketSeat
 
-| Repositório       | Website       |
+| Repositories       | Website       |
 | -------------      |:-------------:|
-| [Orfanato - Happy](https://github.com/Puidor/nlw03-happy)         | [✅ Acessar](https://happy-puidores.netlify.app/) |
-| [Ecoleta](https://github.com/Puidor/nlw01-ecoleta)     | [✅ Acessar](https://nlw01-ecoleta.netlify.app/)  |
+| [Orfanato - Happy](https://github.com/Puidor/nlw03-happy)         | [✅ Website](https://happy-puidores.netlify.app/) |
+| [Ecoleta](https://github.com/Puidor/nlw01-ecoleta)     | [✅ Website](https://nlw01-ecoleta.netlify.app/)  |
 
 
 
-Mais Projetos :arrow_right: [Meu Repositório](https://github.com/Puidor?tab=repositories)
+More projects :arrow_right: [Repositories](https://github.com/Puidor?tab=repositories)
 
 
 
